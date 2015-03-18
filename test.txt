@@ -1,0 +1,2 @@
+ALTER TABLE `ismsiccc_emptyv141`.`tableinfo` 
+CHANGE COLUMN `attachable` `attachable` VARCHAR(8) CHARACTER SET 'utf8' COLLATE 'utf8_unicode_ci' NOT NULL DEFAULT 'false' ;
